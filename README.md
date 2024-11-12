@@ -9,6 +9,7 @@ Este proyecto implementa varias funcionalidades para manejar y analizar un grafo
 - **conexiones_cortas.py**: Contiene la función `localidades_con_conexiones_cortas` para identificar las localidades donde todas las conexiones son menores a una distancia específica.
 - **es_conexo.py**: Implementa la función `es_conexo` para verificar si el grafo es conexo, utilizando DFS.
 - **rutas_alternativas.py**: Contiene la función `rutas_alternativas` que encuentra todas las rutas sin ciclos entre dos localidades usando BFS.
+- **ruta_mas_larga.py**: Implementa la función `ruta_mas_larga` para encontrar la ruta más larga posible entre dos localidades sin ciclos, usando DFS.
 
 ## Complejidad Computacional
 
